@@ -35,6 +35,6 @@ In my scenario, quick sort is the most effficient sorting algorithm as it perfor
 
 Upon research, i know that many online platforms such as **Amazon Prime** uses their own developed **A9 Algorithm**,
 **Google** uses its own **Page Rank Algorithm**,
-**Netfix** uses both **Machine Learning and Dividing Data in two types :- ** ***Implicit & Explicit***
+**Netfix** uses both **Machine Learning and Dividing Data in two types :-** ***Implicit & Explicit***
 
 
