@@ -37,4 +37,8 @@ Upon research, i know that many online platforms such as **Amazon Prime** uses t
 **Google** uses its own **Page Rank Algorithm**,
 **Netfix** uses both **Machine Learning and Dividing Data in two types :-** ***Implicit & Explicit***
 
+# My Experience
+At last, I just want to say that, this one month is the best, in terms of learning new technology, exposure, espically the workshops and the session organised by them were super cool. 
+
+**Thank You! Microsoft**
 
