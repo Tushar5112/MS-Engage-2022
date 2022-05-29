@@ -5,6 +5,12 @@ This repository contains my work which I had done in my **Microsoft Engage 2022 
 
 **Official Site : https://acehacker.com/microsoft/engage2022/**
 
+**Google Drive Link : https://drive.google.com/drive/folders/1SOZb3lW7K5kRNLajATtNLHC1aWc6i2bx?usp=sharing**
+
+For all the resources
+
+**Live Website : https://tk-movie-recommender-system.herokuapp.com/**
+
 
 All the mentee were choice of choosing any one of the project, which they feel appealing to them, in whichever tech stack they wish.
 
